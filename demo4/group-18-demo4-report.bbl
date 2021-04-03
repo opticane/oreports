@@ -1,0 +1,108 @@
+\begin{thebibliography}{14}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Benewake(2020)]{19mouser}
+Benewake.
+\newblock Tf-luna lidar module (short-range distance sensor), 2020.
+\newblock URL
+  \url{https://www.mouser.co.uk/datasheet/2/1099/Benewake_10152020_TF_Luna-1954056.pdf}.
+
+\bibitem[Doi et~al.(2013)Doi, Sugama, Nishimura, Seo, Ino, Nunokawa, Kosuge,
+  Miyazaki, Sugiyama, Tanaka, Sawada, Kaneko, Ouchi, and Kanamori]{13doi}
+Doi, Kouki, Sugama, Atsushi, Nishimura, Takahiro, Seo, Akihiko, Ino, Shuichi,
+  Nunokawa, Kiyohiko, Kosuge, Kazuhiko, Miyazaki, Akito, Sugiyama, Masaaki,
+  Tanaka, Yoshihiro, Sawada, Mayumi, Kaneko, Ken, Ouchi, Susumu, and Kanamori,
+  Katsuhiro.
+\newblock Relationship between weight of our developed white cane and muscle
+  load on the upper limbs during swinging action of the cane.
+\newblock \emph{Communications in Computer and Information Science},
+  373:\penalty0 231--235, 07 2013.
+\newblock \doi{10.1007/978-3-642-39473-7_47}.
+
+\bibitem[Ertan et~al.(1998)Ertan, Lee, Willets, Tan, and Pentland]{9ertan}
+Ertan, S., Lee, C., Willets, A., Tan, H., and Pentland, A.
+\newblock A wearable haptic navigation guidance system.
+\newblock In \emph{Proceedings of the 2nd IEEE International Symposium on
+  Wearable Computers}, ISWC '98, pp.\  164, USA, 1998. IEEE Computer Society.
+\newblock ISBN 0818690747.
+
+\bibitem[Gallo et~al.(2010)Gallo, Chapuis, Santos-Carreras, Kim, Retornaz,
+  Bleuler, and Gassert]{14gallo}
+Gallo, Simon, Chapuis, Dominique, Santos-Carreras, L., Kim, Yeongmi, Retornaz,
+  Philippe, Bleuler, Hannes, and Gassert, Roger.
+\newblock Augmented white cane with multimodal haptic feedback.
+\newblock \emph{2010 3rd IEEE RAS and EMBS International Conference on
+  Biomedical Robotics and Biomechatronics, BioRob 2010}, pp.\  149 -- 155, 10
+  2010.
+\newblock \doi{10.1109/BIOROB.2010.5628066}.
+
+\bibitem[Glove(2020)]{3glove}
+Glove, Superior.
+\newblock Sizing 101 - guide to glove and sleeve sizing, 2020.
+\newblock URL \url{https://www.superiorglove.com/en/work-gloves-101/sizing}.
+
+\bibitem[Grussenmeyer et~al.(2016)Grussenmeyer, Garcia, and
+  Jiang]{10grussenmeyer}
+Grussenmeyer, William, Garcia, Jesel, and Jiang, Fang.
+\newblock Feasibility of using haptic directions through maps with a tablet and
+  smart watch for people who are blind and visually impaired.
+\newblock In \emph{Proceedings of the 18th International Conference on
+  Human-Computer Interaction with Mobile Devices and Services}, MobileHCI '16,
+  pp.\  83–89, New York, NY, USA, 2016. Association for Computing Machinery.
+\newblock ISBN 9781450344081.
+\newblock \doi{10.1145/2935334.2935367}.
+\newblock URL \url{https://doi.org/10.1145/2935334.2935367}.
+
+\bibitem[Henkler(2018)]{11henkler}
+Henkler, Ed.
+\newblock Cane for the blind: Stridelight™ cane, 2018.
+\newblock URL
+  \url{https://theblindguide.com/cane-for-the-blind-stridelighttm-cane/}.
+
+\bibitem[Immersion(2017)]{8immersion}
+Immersion.
+\newblock Tactile feedback in mobiles: Consumer attitudes, 2017.
+\newblock URL
+  \url{https://www.immersion.com/wp-content/uploads/2017/08/tactile-feedback-in-mobile-consumer-attitudes-about.pdf}.
+
+\bibitem[Marshall(2017)]{12marshall}
+Marshall, Rob.
+\newblock Avoid fitting illegal led light bulbs to your car, 2017.
+\newblock URL
+  \url{https://blog.motoringassist.com/news/avoid-fitting-illegal-led-light-bulbs-car/}.
+
+\bibitem[Michael et~al.(2006)Michael, McNamee, and Michael]{18michael}
+Michael, Katina, McNamee, Andrew, and Michael, M.
+\newblock The emerging ethics of humancentric gps tracking and monitoring.
+\newblock In \emph{The Emerging Ethics of Humancentric GPS Tracking and
+  Monitoring}, pp.\ ~34, 06 2006.
+\newblock \doi{10.1109/ICMB.2006.43}.
+
+\bibitem[RS-Online(2020)]{15rsOnline}
+RS-Online.
+\newblock Seeed studio 316040001 mini vibration motor for multipurpose, 2020.
+\newblock URL \url{https://docs.rs-online.com/52f4/0900766b816e6720.pdf}.
+
+\bibitem[Stanley(2017)]{17stanley}
+Stanley, Jay.
+\newblock The privacy threat from always-on microphones like the amazon echo,
+  2017.
+\newblock URL
+  \url{https://www.aclu.org/blog/privacy-technology/privacy-threat-always-microphones-amazon-echo}.
+
+\bibitem[WeWALK(2020)]{2wewalk}
+WeWALK.
+\newblock Wewalk | smart cane for visually impaired and blind people, 2020.
+\newblock URL \url{https://www2.wewalk.io/}.
+
+\bibitem[Wolchover(2012)]{7wolchover}
+Wolchover, Natalie.
+\newblock How do blind people picture reality livescience, 2012.
+\newblock URL
+  \url{https://www.livescience.com/23709-blind-people-picture-reality.html}.
+
+\end{thebibliography}
